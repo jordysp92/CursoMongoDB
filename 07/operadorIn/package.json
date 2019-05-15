@@ -1,0 +1,14 @@
+{
+  "name": "Ejercicio_1_9_NodeJS",
+  "version": "0.0.0",
+  "description": "Ejercicio 1.9. NodeJS",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "^3.2.4"
+  },
+  "devDependencies": {},
+  "repository": "",
+  "author": "Jordy Salas",
+  "license": "BSD",
+  "private": true
+}
